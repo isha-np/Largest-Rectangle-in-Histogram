@@ -10,4 +10,5 @@ Given n non-negative integers representing the histogram's bar height where the 
 
 CONSTRAINTS:
 1 <= heights.length <= 105
+
 0 <= heights[i] <= 104
